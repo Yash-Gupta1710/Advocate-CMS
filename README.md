@@ -106,15 +106,15 @@ Database (H2 / MySQL)
 
 ### Login Portal
 
-_Add screenshot here_
+<img src = "LoginDash.png" alt = "Login portal">
 
 ### Lawyer Dashboard
 
-_Add screenshot here_
+<img src = "AdvDash.png" alt = "Lawyer Dashboard">
 
 ### Client Dashboard
 
-_Add screenshot here_
+<img src = "ClientDash.png" alt = "Client Dashboard">
 
 ---
 
