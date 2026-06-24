@@ -36,7 +36,7 @@ export default function Login() {
           <div className="w-20 h-20 rounded-2xl bg-gradient-to-br from-gold-400 to-gold-600 flex items-center justify-center mx-auto mb-8 shadow-2xl shadow-gold-500/20">
             <FiShield className="w-10 h-10 text-white" />
           </div>
-          <h1 className="text-4xl font-bold text-white mb-4">Advocate CMS</h1>
+          <h1 className="text-4xl font-bold text-white mb-4">Lexora - Advocate CMS</h1>
           <p className="text-navy-300 text-lg leading-relaxed">
             Professional client management for modern legal practice. Manage appointments, cases, and documents — all in one place.
           </p>
